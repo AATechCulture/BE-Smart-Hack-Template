@@ -44,7 +44,7 @@ Example:
 **...point us to your PPT or Canva slides 😍**
 
 ### ☑️ Team Checklist due before 5p Saturday 11/4 ☑️
-- [x] Team photo
+- [] Team photo
 - [] Team Slack channel
 - [] Communication established with mentor
 - [] Repo creation from this template
@@ -56,4 +56,8 @@ Example:
 - [] Video pitch recorded and linked
 - [] Code merged to main branch
 
+### ☑️ Sample Checklist for Syntax Example ☑️
+- [x] Presentation complete and linked
+- [x] Video pitch recorded and linked
+- [] Code merged to main branch
 
