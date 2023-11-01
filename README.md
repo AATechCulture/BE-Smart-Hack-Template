@@ -43,7 +43,7 @@ Example:
 ### Link to Demo Presentation 📽
 **...point us to your PPT or Canva slides 😍**
 
-### ☑️ Team Checklist due before 5p Saturday 11/4 ☑️
+### Team Checklist due before 5p Saturday 11/4 ✅
 - [] Team photo
 - [] Team Slack channel
 - [] Communication established with mentor
@@ -51,12 +51,12 @@ Example:
 - [] Hangar registration
 - [] Scavenger Hunt submission
 
-### ☑️ Project Checklist due before 10a Sunday 11/5 ☑️
+### Project Checklist due before 10a Sunday 11/5 🏁
 - [] Presentation complete and linked
 - [] Video pitch recorded and linked
 - [] Code merged to main branch
 
-### ☑️ Sample Checklist for Syntax Example ☑️
+### Sample Checklist for Syntax Example 
 - [x] Presentation complete and linked
 - [x] Video pitch recorded and linked
 - [] Code merged to main branch
