@@ -44,7 +44,7 @@ Example:
 **...point us to your PPT or Canva slides 😍**
 
 ### ☑️ Team Checklist due before 5p Saturday 11/4 ☑️
-- [] Team photo
+- [x] Team photo
 - [] Team Slack channel
 - [] Communication established with mentor
 - [] Repo creation from this template
