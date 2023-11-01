@@ -37,6 +37,12 @@ Example:
 * Team member Y (AAdvantage No)
 * Team member Z (AAdvantage No)
 
+### School Name 🏫
+The ABC School
+
+### Team Name 🏷
+Coding Costars
+
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
 
