@@ -41,7 +41,7 @@ Example:
 Edward Waters University
 
 ### Team Name 🏷
-Coding Costars
+Tigerhacks
 
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
