@@ -30,15 +30,16 @@ Example:
 
 ### ✨ Contributors ✨
 **...tell the world who you and your team are 🙂**
-* Team member X (AAdvantage No)
-* Team member Y (AAdvantage No)
-* Team member Z (AAdvantage No)
+* Kaleb Riley()
+* Chioma (AAdvantage No)
+* Jalen(AAdvantage No)
+* 
 
 ### School Name 🏫
-Edward Waters University
+Xavier University of Louisiana
 
 ### Team Name 🏷
-Tigerhacks
+Xula-1
 
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
