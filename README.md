@@ -50,11 +50,11 @@ Coding Costars
 **...point us to your PPT or Canva slides 😍**
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
-- [ ] Team photo
-- [ ] Team Slack channel
-- [ ] Communication established with mentor
-- [ ] Repo creation from this template
-- [ ] Hangar registration
+- [✅] Team photo - 
+- [✅] Team Slack channel
+- [✅] Communication established with mentor
+- [✅] Repo creation from this template
+- [✅] Hangar registration
 - [ ] Scavenger Hunt submission
 
 ### Project Checklist due before 10a Sunday 11/5 🏁
