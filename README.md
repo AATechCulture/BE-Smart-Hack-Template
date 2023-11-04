@@ -38,7 +38,7 @@ Example:
 * Team member Z (AAdvantage No)
 
 ### School Name 🏫
-The ABC School
+Edward Waters University
 
 ### Team Name 🏷
 Coding Costars
