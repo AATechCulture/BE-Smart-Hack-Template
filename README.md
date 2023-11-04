@@ -8,10 +8,12 @@ This is a repository containing all of our project deliverables.
 
 ## Challenge Statement(s) Addressed 🎯
 **...include the challenge statement(s) the project worked to address**
-Build an application that will help positively impact airline customers, airline employees, and/or airline operations!
+1. Build an application that will help positively impact airline customers, airline employees, and/or airline operations!
 
 ## Project Description 🤯
-**....at lease 3 sentences describing what the project does and how it works**
+- AIDA by American app enhances the airport experience through real-time queue monitoring, providing passengers with up-to-the-minute data on wait times at the airport.
+- It will leverage predictive analytics in identifying peak congestion times and guiding resource allocation, helping passengers plan their journeys more efficiently.
+- it will provide pptimized boarding positions, driven by passenger seat data, reduce boarding times and alleviate aisle congestion for an improved travel experience.
 
 ## Project Value 💰
 **....at lease 3 sentences describing your target customer and tangible benefits from your solution**
