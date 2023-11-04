@@ -24,7 +24,7 @@ This is a repository containing all of our project deliverables.
 
 Example:
 * FastAPI
-* Hugging Face AI Models
+* OpenAI
 * Next.js
 
 
