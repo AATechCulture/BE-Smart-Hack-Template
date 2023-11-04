@@ -4,7 +4,7 @@
 This is a repository containing all of our project deliverables.
 
 
-# AIDA
+# AIDA by American
 
 ## Challenge Statement(s) Addressed 🎯
 **...include the challenge statement(s) the project worked to address**
