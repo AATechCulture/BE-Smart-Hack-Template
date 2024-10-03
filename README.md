@@ -33,9 +33,9 @@ Example:
 
 ### ✨ Contributors ✨
 **...tell the world who you and your team are 🙂**
-* Team member X (AAdvantage No)
-* Team member Y (AAdvantage No)
-* Team member Z (AAdvantage No)
+* Team member X (AAdvantage #)
+* Team member Y (AAdvantage #)
+* Team member Z (AAdvantage #)
 
 ### School Name 🏫
 The ABC School
