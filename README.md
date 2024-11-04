@@ -20,7 +20,6 @@ Examples:
 ## Project Value 💰
 **....at least 3 sentences describing your target customer and tangible benefits from your solution**
 
-
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
 
@@ -30,19 +29,6 @@ Example:
 * Next.js
 * Java
 * ReactJS
-
-
-### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
-* Team member X 
-* Team member Y 
-* Team member Z 
-
-### School Name 🏫
-The ABC School
-
-### Team Name 🏷
-Coding Costars
 
 ### Link to Video Pitch 📹
 **...point us to the short clip that tells us about your solution 😄**
@@ -56,10 +42,21 @@ Coding Costars
 - [ ] Communication established with mentor
 - [ ] Repo creation from this template
 - [ ] Hangar registration
-- [ ] Scavenger Hunt submission
 
 ### Project Checklist 🏁
 - [ ] Presentation complete and linked
 - [ ] Video pitch recorded and linked
 - [ ] Code merged to main branch
+
+### School Name 🏫
+The ABC School
+
+### Team Name 🏷
+Coding Costars
+
+### ✨ Contributors ✨
+**...tell the world who you and your team are 🙂**
+* Team member X 
+* Team member Y 
+* Team member Z 
 
